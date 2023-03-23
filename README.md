@@ -20,7 +20,7 @@ I possess technical skills in HTML, CSS, JavaScript, and their respective framew
 - ``Design system``
 - ``Design responsive``
 - ``Acessibility``
-- ``Semantics code for SEO``
+- ``Semantic code for SEO``
 
 Would you like to find me?
 
