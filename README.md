@@ -7,6 +7,21 @@ As a professional in transition, I have a combination of design and front-end de
 While my professional experience has been focused on design and advertising, since 2018 I have been pursuing continuous learning in front-end development. 
 I possess technical skills in HTML, CSS, JavaScript, and their respective frameworks such as Bootstrap and React.js.
 
+## ✔️ Skills
+
+- ``HTML5``
+- ``CSS``
+- ``SASS``
+- ``Bootstrap``
+- ``javaScript``
+- ``Typescript``
+- ``React``
+- ``Design components``
+- ``Design system``
+- ``Design responsive``
+- ``Acessibility``
+- ``Semantics code for SEO``
+
 Would you like to find me?
 
 
