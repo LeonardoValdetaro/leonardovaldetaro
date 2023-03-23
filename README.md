@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/leonardovaldetaro/leonardovaldetaro/blob/main/leonardovaldetaro-light.svg" alt="Leonardo Valdetaro logotipo" width="320px" />
 
 ### "Hello everybody"
 
