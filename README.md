@@ -1,4 +1,4 @@
-
+![Logotipo Leonardo Valdetaro] (https://github.com/leonardovaldetaro/leonardovaldetaro/blob/main/leonardovaldetaro-light.svg)
 
 ### "Hello everybody"
 
