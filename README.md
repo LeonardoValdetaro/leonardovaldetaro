@@ -1,3 +1,5 @@
+![Logotipo Leonardo Valdetaro](https://user-images.githubusercontent.com/30909935/227254376-5fe379c5-293b-4bd6-bf8a-849d6fef4f9c.svg)
+
 ### "Hello everybody"
 
 As a professional in transition, I have a combination of design and front-end development skills. 
